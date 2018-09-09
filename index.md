@@ -7,8 +7,8 @@ This started after agreeing to give a presentation at the Leeds [Technology User
 My contributions will be available via my github site at [https://github.com/Gilgamoth](https://github.com/Gilgamoth)
 
 ## PowerShell Projects
-* [WSUS Auto Approvals] (https://github.com/Gilgamoth/PoSh-WSUS-Approvals)
+* [WSUS Auto Approvals](https://github.com/Gilgamoth/PoSh-WSUS-Approvals)
 * WSUS Reports
-* [WSUS Server Cleanup] (https://github.com/Gilgamoth/PoSh-WSUS-Cleanup)
-* [File Cleardown] (https://github.com/Gilgamoth/PoSh-File-Cleardown)
-* [Server Monitor] (https://github.com/Gilgamoth/PoSh-Server-Monitor)
+* [WSUS Server Cleanup](https://github.com/Gilgamoth/PoSh-WSUS-Cleanup)
+* [File Cleardown](https://github.com/Gilgamoth/PoSh-File-Cleardown)
+* [Server Monitor](https://github.com/Gilgamoth/PoSh-Server-Monitor)

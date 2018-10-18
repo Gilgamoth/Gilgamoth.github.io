@@ -12,3 +12,6 @@ My contributions will be available via my github repository at [https://github.c
 * [WSUS Server Cleanup](https://github.com/Gilgamoth/PoSh-WSUS-Cleanup)
 * [File Cleardown](https://github.com/Gilgamoth/PoSh-File-Cleardown)
 * [Server & Service Monitor](https://github.com/Gilgamoth/PoSh-Server-Monitor)
+
+## Presentations
+* 2018-10 Tech.UG Leeds - [Getting Started in Ops Automation with PowerShell](https://github.com/Gilgamoth/Presentations/tree/master/2018-10%20Tech.UG)

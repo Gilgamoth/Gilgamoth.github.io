@@ -8,7 +8,7 @@ My contributions will be available via my github repository at [https://github.c
 
 ## PowerShell Projects
 * [WSUS Auto Approvals](https://github.com/Gilgamoth/PoSh-WSUS-Approvals)
-* WSUS Reports
+* [WSUS Reports](https://github.com/Gilgamoth/PoSh-WSUS-Reports)
 * [WSUS Server Cleanup](https://github.com/Gilgamoth/PoSh-WSUS-Cleanup)
 * [File Cleardown](https://github.com/Gilgamoth/PoSh-File-Cleardown)
 * [Server & Service Monitor](https://github.com/Gilgamoth/PoSh-Server-Monitor)
